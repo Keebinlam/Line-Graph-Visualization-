@@ -1,3 +1,4 @@
+#to be used in lotto number project
 import matplotlib.pyplot as plt
 
 
